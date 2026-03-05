@@ -1,6 +1,20 @@
 <h2>SkyLiteDemo Project: A SkyLite Framework Showcase</h2>
-<h2>Educational purposes</h2>
+
 Attached MS-SQL Database : SKYLITEDEMO.BAK (full-backup)<br>
+<br>
+
+- SKYLITE framework (C#/VB) <br>
+Platform: IIS / .Net framework 4.5 +<br>
+
+- SKYNET framework (C# only)<br>
+Platform: ASP.NET Core / .NET 10<br>
+Architecture: Middleware-based <br>
+
+- Technical Documents : https://www.theskylite.com/document<br>
+- Showcase Demo. Site: https://www.theskylite.com/SkyLiteProject<br>
+- Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br><br>
+
+
 <h4>Introduction</h4>
 This SkyLiteDemo project serves as a comprehensive and practical showcase of the SkyLite framework's capabilities for building modern, data-driven web applications. It demonstrates how various UI controls and core framework features can be seamlessly integrated to create a cohesive, interactive, and personalized user experience.
 The application presents a classic dashboard-style interface, typical of an administrative portal or a logged-in user's home page, and effectively utilizes the framework's server-centric, AJAX-driven architecture.
