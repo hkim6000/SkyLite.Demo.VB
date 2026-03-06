@@ -14,6 +14,7 @@ Architecture: Middleware-based <br>
 - Showcase Demo. Site: https://www.theskylite.com/SkyLiteProject<br>
 - Download GitHub: https://github.com/hkim6000/SkyNetDemo-AspNetCore<br><br>
 
+support: hkim6000@gmail.com<br><br>
 
 <h4>Introduction</h4>
 This SkyLiteDemo project serves as a comprehensive and practical showcase of the SkyLite framework's capabilities for building modern, data-driven web applications. It demonstrates how various UI controls and core framework features can be seamlessly integrated to create a cohesive, interactive, and personalized user experience.
